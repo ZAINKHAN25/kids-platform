@@ -1,0 +1,27 @@
+Pages: 
+
+Landing Page:
+About Page:
+Succes Stories Page:
+
+Sign Up Page:
+Sign In Page:
+
+Home Page:
+Profile Page:
+Your Assingments Page:
+Course Videos Page:
+LeadBoard Pages:
+Certificate Page:
+Attendance Page:
+
+New Course Timeline: 
+Chat Page:
+
+
+Admin:
+
+Add Course:
+Add Assingments: 
+Check Assingments: 
+Certificate Page:
