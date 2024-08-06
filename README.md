@@ -1,3 +1,3 @@
 # Kids Platform
 
-hey guys welcome to kids-platform.
+Hey guys welcome to kids-platform.
